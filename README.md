@@ -46,6 +46,15 @@
 
 ---
 
+## 🚀 Projects I'm Proud Of
+
+| Project | Description | Link |
+|---------|-------------|------|
+| AI VIX75 Scalper | Auto-trading bot for Deriv VIX75 using price action & zone logic | [GitHub](https://github.com/NawthviperCodes/ai-vix75-scalper) |
+| Telegram Signal Bot | Sends trading signals with alerts & logs | [GitHub](https://github.com/NawthviperCodes/telegram-signal-bot) |
+| Flask Trading Dashboard | Web dashboard to control MT5 bot via browser | [GitHub](https://github.com/NawthviperCodes/flask-trading-dashboard) |
+
+
 ## 📬 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nathviper_signals)
