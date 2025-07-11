@@ -55,6 +55,11 @@
 | Flask Trading Dashboard | Web dashboard to control MT5 bot via browser | [GitHub](https://github.com/NawthviperCodes/flask-trading-dashboard) |
 
 
+## 📫 How to reach me
+
+- Telegram: [@nathviper_signals](https://t.me/nathviper_signals)
+- Email: thabogelson02@gmail.com 
+
 ## 📬 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nathviper_signals)
