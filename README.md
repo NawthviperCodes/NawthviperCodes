@@ -1,33 +1,48 @@
 <h1 align="center">Hi 👋, I'm Thabo Gelson</h1>
-<h3 align="center">aka Nawthviper — AI-Powered Trading Bot Dev ⚙️</h3>
+<h3 align="center">aka Nawthviper — AI-Powered Trading Bot Dev ⚙️ | Computer Science Graduate 🎓</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Computer+Science+Graduate+%F0%9F%8E%93;Forex+Bot+Automation+%F0%9F%94%A5;Real-World+Software+Solutions+%F0%9F%92%BB;Python+%7C+MT5+%7C+AI+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate+%F0%9F%8E%93;Building+Trading+Automations+%F0%9F%A4%96;Designing+Real-World+Software+Solutions+%F0%9F%92%BB;Databases+%7C+AI+%7C+FinTech+%7C+Automation" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 I am a **Computer Science graduate from Tshwane University of Technology (TUT)** with a diploma in Computer Science.
+🎓 I am a **Computer Science graduate from Tshwane University of Technology (TUT)**, Faculty of Information and Communication Technology, **Computer Science Department (Soshanguve Campus)**.
 
-* 🤖 I build **automations in forex trading** (MT5 + Python) that reduce time spent analyzing markets and sending signals.
-* 💡 I design **software solutions that solve real-world problems**, applying my skills beyond trading.
-* 🛠️ My expertise includes **price action trading strategies**, **AI-powered bots**, **databases**, and **end-to-end software development**.
-* 🌍 I’m open to collaboration on **fintech, AI, and problem-solving projects**.
+During my studies, I specialized in:
+
+* 💻 **Software Development & Programming**
+* 📱 **Mobile Application Development**
+* 📊 **Business Analysis & Modelling**
+* 🗄️ **Database Development & Administration**
+
+📑 My lecturers and supervisors at TUT have recognized me as someone who **consistently rises to challenges** and applies knowledge to solve problems.
+
+---
+
+## 🌍 What I Do
+
+* 🤖 Build **forex trading automations** with Python + MetaTrader 5 to reduce market analysis time and send signals instantly.
+* 💡 Design **software systems that solve real-world problems** — from finance to education.
+* 📊 Work with **databases** (PostgreSQL, MySQL, SQLite) to build scalable applications.
+* 🛠️ Develop **bots, dashboards, and platforms** that empower users to save time and make better decisions.
+
+I believe in **using technology as a bridge** — turning complexity into simplicity through automation and intelligent systems.
 
 ---
 
 ## 🎯 Career Goals
 
-I aim to grow as a **software developer and automation engineer**, focusing on:
+I’m driven by one mission: **to create solutions that solve problems**.
 
-* **FinTech & Forex Automations** → smarter, faster, and more accurate trading systems.
-* **AI & Data-Driven Solutions** → using machine learning to solve real-world challenges.
-* **Database-Driven Applications** → designing scalable platforms that manage critical data.
-* **Industry-Ready Software** → building impactful tools for education, finance, and beyond.
+* ⚡ **FinTech & Forex Automation** → smarter, faster, and more accurate trading bots.
+* 🧠 **AI & Data-Driven Apps** → applying machine learning to real-world challenges.
+* 🗄️ **Database Systems** → designing robust and efficient platforms.
+* 🌍 **Software for Impact** → education, finance, and industries that need transformation.
 
-Ultimately, my goal is to **combine AI, automation, and software engineering** to deliver solutions that **save time, reduce complexity, and create value at scale**.
+My vision is to become a **solution-focused software engineer**, building products that **remove barriers, save time, and create opportunities**.
 
 ---
 
@@ -88,4 +103,4 @@ Ultimately, my goal is to **combine AI, automation, and software engineering** t
 
 ---
 
-> 🧠 *“I believe in building automations and software that remove barriers, save time, and solve real-world problems — from forex markets to education systems.”*
+> 🧠 *“I am not just building projects — I am building solutions. From forex automations to software platforms, my goal is to solve problems that matter.”*
