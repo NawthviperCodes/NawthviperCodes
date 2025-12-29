@@ -56,10 +56,13 @@ I enjoy turning **complex logic into reliable systems** that operate with minima
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NawthviperCodes&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NawthviperCodes&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NawthviperCodes&show_icons=true&theme=radical&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NawthviperCodes&layout=compact&theme=radical&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NawthviperCodes&theme=highcontrast)
 
 ---
 
