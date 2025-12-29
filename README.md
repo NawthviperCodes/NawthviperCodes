@@ -92,7 +92,7 @@ My vision is to become a **solution-focused software engineer**, building produc
 ## 📫 How to Reach Me
 
 * 📩 Email: **[thabogelson02@gmail.com](mailto:thabogelson02@gmail.com)**
-* 💬 Telegram: [@nathviper_signals](https://t.me/nathviper_signals)
+* 💬 Telegram: [@nathviper_signals](https://t.me/nawthviper_hub)
 
 ---
 
