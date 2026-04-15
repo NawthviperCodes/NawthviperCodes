@@ -1,6 +1,6 @@
 <h1 align="center">Thabo Gelson</h1>
 <h3 align="center">
-Software Engineer • Automation & Backend Systems • FinTech & Data
+Software Developer • Automation & Backend Systems • FinTech & Data
 </h3>
 
 <p align="center">
