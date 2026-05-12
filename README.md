@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Thabo Gelson 👋</h1>
 
 <h3 align="center">
-Software Developer | Backend Developer | Automation | FinTech | Data Systems
+Software Developer | Backend Developer | Data Science | Automation | FinTech
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate;Backend+Developer;React+%7C+TypeScript+%7C+JavaScript;MongoDB+%7C+APIs+%7C+Automation;Building+Reliable+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;Backend+Developer;React+%7C+TypeScript+%7C+JavaScript;MongoDB+%7C+APIs+%7C+Automation;Data+Analysis+%7C+Machine+Learning;Building+Reliable+Software" />
 </p>
 
 ---
@@ -14,16 +14,18 @@ Software Developer | Backend Developer | Automation | FinTech | Data Systems
 
 I am a **Computer Science graduate from TUT** with an interest in building reliable and useful software systems.
 
-I enjoy working on:
+I work with backend systems, web applications, automation tools, data systems, and FinTech-related projects.
 
-- Backend systems
-- Web applications
-- Automation tools
-- APIs
-- Data-driven applications
-- FinTech and trading systems
+I have also been learning **Data Science through Bright Learn**, where I focused on:
 
-I like turning ideas and complex logic into simple, working software.
+- Analysing data
+- Cleaning and preparing datasets
+- Exploring data patterns
+- Creating machine learning models
+- Training and testing machine learning models
+- Using data to support decision-making
+
+I enjoy turning ideas, data, and complex logic into simple working software.
 
 ---
 
@@ -56,6 +58,20 @@ I like turning ideas and complex logic into simple, working software.
 - PostgreSQL
 - MySQL
 - SQLite
+
+### Data Science & Machine Learning
+
+- Data Analysis
+- Data Cleaning
+- Data Visualisation
+- Machine Learning Models
+- Model Training
+- Model Testing
+- Python for Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
 ### Tools & Practices
 
