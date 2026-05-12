@@ -1,73 +1,111 @@
-<h1 align="center">Thabo Gelson</h1>
+<h1 align="center">Hi, I'm Thabo Gelson 👋</h1>
+
 <h3 align="center">
-Software Developer • Automation & Backend Systems • FinTech & Data
+Software Developer | Backend Developer | Automation | FinTech | Data Systems
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate;Backend+%7C+Automation+%7C+Data+Systems;Python+%7C+Databases+%7C+APIs;Building+Production-Ready+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate;Backend+Developer;React+%7C+TypeScript+%7C+JavaScript;MongoDB+%7C+APIs+%7C+Automation;Building+Reliable+Software" />
 </p>
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-I am a **Computer Science graduate (TUT)** focused on building **production-oriented software systems**.
+I am a **Computer Science graduate from TUT** with an interest in building reliable and useful software systems.
 
-My work centers on:
-- backend services
-- automation pipelines
-- data-driven applications
-- algorithmic systems
+I enjoy working on:
 
-I enjoy turning **complex logic into reliable systems** that operate with minimal human intervention.
+- Backend systems
+- Web applications
+- Automation tools
+- APIs
+- Data-driven applications
+- FinTech and trading systems
 
----
-
-## 🛠 Core Skills
-
-**Languages & Frameworks**
-- Python, Flask, FastAPI
-- SQL (PostgreSQL, MySQL, SQLite)
-
-**Systems & Automation**
-- Trading bots (MT5 integration)
-- Telegram bots & APIs
-- Scheduled & event-driven automation
-
-**Engineering Practices**
-- Modular architecture
-- Logging & monitoring
-- Backtesting & simulation
-- Git-based workflows
+I like turning ideas and complex logic into simple, working software.
 
 ---
 
-## 🚀 Selected Projects
+## 🛠 Tech Stack
 
-| Project | What It Demonstrates | Tech Stack | Repo |
-|------|---------------------|-----------|------|
-| **Currency Trading Bot v2** | Market structure detection, risk management, backtesting engine | Python, MT5 | [View](https://github.com/NawthviperCodes/currency_bot_v2) |
-| **AI VIX75 Scalper** | Rule-based algorithmic trading system for synthetic indices | Python | [View](https://github.com/NawthviperCodes/ai-vix75-scalper) |
-| **VIX75 Scalper Bot** | Signal execution, position management, automation logic | Python | [View](https://github.com/NawthviperCodes/vix75-scalper-bot) |
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- SQL
+
+### Frontend
+
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- Flask
+- FastAPI
+
+### Databases
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Tools & Practices
+
+- Git & GitHub
+- REST APIs
+- Logging
+- Backtesting
+- Automation
+- Modular project structure
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech Stack | Repo |
+|---|---|---|---|
+| **Currency Trading Bot v2** | Trading bot with market structure detection, risk management, and backtesting | Python, MT5 | [View](https://github.com/NawthviperCodes/currency_bot_v2) |
+| **AI VIX75 Scalper** | Rule-based trading system for synthetic indices | Python | [View](https://github.com/NawthviperCodes/ai-vix75-scalper) |
+| **VIX75 Scalper Bot** | Automated bot for signal execution and position management | Python | [View](https://github.com/NawthviperCodes/vix75-scalper-bot) |
 | **EduBridge Platform** | Multi-university module registration system | FastAPI, PostgreSQL | [View](https://github.com/NawthviperCodes/edubridge-app) |
-| **Graduate Survey Dashboard** | Data collection & analytics dashboard | Flask, SQL | [View](https://github.com/NawthviperCodes/eduvos-graduate-survey-dashboard) |
-| **IoT Health Monitor** | Real-time monitoring system for mining environments | IoT, Backend | [View](https://github.com/NawthviperCodes/iot-mining-health-monitor) |
-| **Student Manager Web App** | CRUD-based academic management system | Web, SQL | [View](https://github.com/NawthviperCodes/StudentManagerWebApp) |
+| **Graduate Survey Dashboard** | Dashboard for collecting and analysing graduate survey data | Flask, SQL | [View](https://github.com/NawthviperCodes/eduvos-graduate-survey-dashboard) |
+| **IoT Health Monitor** | Real-time health monitoring system for mining environments | IoT, Backend | [View](https://github.com/NawthviperCodes/iot-mining-health-monitor) |
+| **Student Manager Web App** | CRUD-based academic management web app | Web, SQL | [View](https://github.com/NawthviperCodes/StudentManagerWebApp) |
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NawthviperCodes&show_icons=true&theme=radical&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NawthviperCodes&show_icons=true&theme=radical&cache_seconds=86400" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NawthviperCodes&layout=compact&theme=radical&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawthviperCodes&layout=compact&theme=radical&cache_seconds=86400" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NawthviperCodes&theme=highcontrast)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NawthviperCodes&theme=highcontrast" />
+</p>
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- **Email:** thabogelson02@gmail.com  
-- **Telegram:** https://t.me/nawthviper_hub  
-- **GitHub:** https://github.com/NawthviperCodes
+- **Email:** thabogelson02@gmail.com
+- **Telegram:** [nawthviper_hub](https://t.me/nawthviper_hub)
+- **GitHub:** [NawthviperCodes](https://github.com/NawthviperCodes)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile.
+</p>
